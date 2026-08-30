@@ -1,0 +1,8 @@
+{
+  "custom_commands": {
+    "open my notes": { "type": "url", "value": "https://keep.google.com" },
+    "open youtube": { "type": "url", "value": "https://youtube.com" }
+  },
+  "weather_default_city": "London",
+  "email_default_to": ""
+}
